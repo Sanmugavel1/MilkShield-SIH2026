@@ -10,8 +10,8 @@ Low-cost, lightweight milk chilling can for small-scale dairy farmers: a PUF-ins
 
 | Folder | Contents |
 |---|---|
-| `1_Presentation/` | Idea PPT (v2) – `.pptx` and `.pdf` for the portal; earlier version in `old_version_v1/` |
-| `2_Video/` | Video script (PDF + Markdown) and simulation clips |
+| `1_Presentation/` | Idea presentation – `.pptx` and submitted `.pdf` |
+| `2_Simulation_Videos/` | Animated results: thermal model and 2D CFD of the milk |
 | `3_Simulation_Results/` | Charts and heat maps |
 | `4_Simulation_Code/` | Python models: thermal model, parameter sweeps, wall heat-flow model, 2D CFD |
 
