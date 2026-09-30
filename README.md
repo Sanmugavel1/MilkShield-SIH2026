@@ -3,6 +3,11 @@
 **Team INVICTUS · Team ID 159400**
 Low-cost, lightweight milk chilling can for small-scale dairy farmers: a PUF-insulated can with reusable ice cartridges immersed in the milk – no electricity.
 
+## ▶ Watch the video
+[![MilkShield – SIH 2026 video](https://img.youtube.com/vi/tePsLZXO39U/hqdefault.jpg)](https://youtu.be/tePsLZXO39U)
+
+**YouTube:** https://youtu.be/tePsLZXO39U
+
 | Folder | Contents |
 |---|---|
 | `1_Presentation/` | Idea PPT (v2) – `.pptx` and `.pdf` for the portal; earlier version in `old_version_v1/` |
